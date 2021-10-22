@@ -2,8 +2,8 @@
 
 💻 I'm Marc-Andre, a full-stack developer
 
-👔 Working with Python, Mongo and GraphQL
+👔 Working with Python, Docker and VueJS
 
-🌱 Currently learning the [Gatsby](https://www.gatsbyjs.com/) framework
+🌱 Currently learning the [Vue.js](https://vuejs.org/) framework
 
-🇨🇦 Based in Montreal 
+🍁 Based in Montreal 
