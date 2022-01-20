@@ -7,3 +7,5 @@
 🌱 Currently learning the [Vue.js](https://vuejs.org/) framework
 
 🍁 Based in Montreal 
+
+For more, [visite my website](https://the224.info/) 
