@@ -2,10 +2,10 @@
 
 💻 I'm Marc-Andre, a full-stack developer
 
-👔 Working with Python, Docker and VueJS
+👔 Working with VueJS, Docker and Python
 
-🌱 Currently learning the [Vue.js](https://vuejs.org/) framework
+🌱 Currently learning the [Nuxt.js](https://nuxtjs.org/) framework
 
 🍁 Based in Montreal 
 
-For more, [visite my website](https://the224.info/) 
+For more info, [visite my website](https://the224.info/) 
