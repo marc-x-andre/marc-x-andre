@@ -11,7 +11,7 @@
 
 For more info, [visite my website](https://the224.info/) 
 
-<p>
-  <img src="https://img.shields.io/badge/Release%20date-June%202%201996-success" />
-  <img src="https://img.shields.io/badge/Available-Not%20at%20the%20moment-inactive" />
-</p>
+
+[![GitHub](https://img.shields.io/badge/GitHub-%40marc--x--andre-239a3b.svg)](https://github.com/marc-x-andre)
+[![Twitter](https://img.shields.io/badge/Twitter-%40marc__x__andre-58a1f2.svg)](https://twitter.com/marc_x_andre)
+[![LinkedIn](https://img.shields.io/badge/Linked-in-0c66c3.svg)](https://www.linkedin.com/in/marc-x-andre/)
