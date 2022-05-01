@@ -9,7 +9,7 @@
 
 🍁 Based in Montreal 
 
-For more info, [visite my website](https://the224.info/) 
+For more info, [visite my website](https://marcxandre.dev/) 
 
 
 [![GitHub](https://img.shields.io/badge/GitHub-%40marc--x--andre-239a3b.svg)](https://github.com/marc-x-andre)
