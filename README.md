@@ -1,15 +1,15 @@
 
 ### Hi there 👋
 
-💻 I'm Marc-Andre, a full-stack developer
+💻 I'm Marc-Andre, a tech lead, project coordinator, full-stack developer, with experience in React, Python, and AWS.
 
-👔 Working with VueJS, Docker and Python
+👔 Working with Micro Service and [Micro Front End](https://micro-frontends.org/) in React, NodeJs & ElasticSearch
 
-🌱 Currently learning the [Nuxt.js](https://nuxtjs.org/) framework
+🌱 Currently learning about project management
 
 🍁 Based in Montreal 
 
-For more info, [visite my website](https://marcxandre.dev/) 
+For more info, [visite my website](https://marcxandre.dev/) or [my resume](https://marcxandre.dev/)
 
 
 [![GitHub](https://img.shields.io/badge/GitHub-%40marc--x--andre-239a3b.svg)](https://github.com/marc-x-andre)
