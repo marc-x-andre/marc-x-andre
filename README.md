@@ -9,6 +9,8 @@
 
 🍁 Based in Montreal 
 
+💬 Ask me about sports (🧗‍♂️🏂🚵‍♂️🏐🎾🏸🏓), code (🐍🐳👨‍💻), literature (👨‍🔬📚🏛) & gaming (🏗🎮👾)
+
 For more info, [visite my website](https://marcxandre.dev/) or [my resume](https://marcxandre.dev/)
 
 
