@@ -11,7 +11,7 @@
 
 💬 Ask me about sports (🧗‍♂️🏂🚵‍♂️🏐🎾🏸🏓), code (🐍🐳👨‍💻), literature (👨‍🔬📚🏛) & gaming (🏗🎮👾)
 
-For more info, [visite my website](https://marcxandre.dev/) or [my resume](https://marcxandre.dev/)
+For more info, [visite my website](https://marcxandre.dev/) or [my resume](https://cv.marcxandre.dev/)
 
 
 [![GitHub](https://img.shields.io/badge/GitHub-%40marc--x--andre-239a3b.svg)](https://github.com/marc-x-andre)
